@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Abdul-Rahman04/weather.git/static/css/main.c76fd23f.css",
+    "main.js": "/Abdul-Rahman04/weather.git/static/js/main.a51b171b.js",
+    "static/js/787.f80b4363.chunk.js": "/Abdul-Rahman04/weather.git/static/js/787.f80b4363.chunk.js",
+    "static/media/html.jpg": "/Abdul-Rahman04/weather.git/static/media/html.6671754ef93f2c7df40c.jpg",
+    "index.html": "/Abdul-Rahman04/weather.git/index.html",
+    "main.c76fd23f.css.map": "/Abdul-Rahman04/weather.git/static/css/main.c76fd23f.css.map",
+    "main.a51b171b.js.map": "/Abdul-Rahman04/weather.git/static/js/main.a51b171b.js.map",
+    "787.f80b4363.chunk.js.map": "/Abdul-Rahman04/weather.git/static/js/787.f80b4363.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c76fd23f.css",
+    "static/js/main.a51b171b.js"
+  ]
+}
