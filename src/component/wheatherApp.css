@@ -1,0 +1,37 @@
+.container {
+  width: 600px;
+  height: 500px;
+  margin: auto;
+  margin-top: 75px;
+  border-radius: 12px;
+  background-color: blueviolet;
+  color: white;
+}
+.top-bar {
+  display: flex;
+  padding-top: 20px;
+  padding-left: 50px;
+  gap: 20px;
+}
+input {
+  border-radius: 6px;
+  width: 300px;
+}
+.icon {
+  border-radius: 6px;
+  height: 30px;
+}
+.cloud {
+  padding-top: 10px;
+  padding-left: 122px;
+  height: 100px;
+}
+.temp {
+  padding-top: 20px;
+  text-align: center;
+  font-size: 50px;
+}
+.location {
+  text-align: center;
+  font-size: 2pc;
+}
