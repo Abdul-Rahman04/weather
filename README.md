@@ -1,2 +1,2 @@
-![w2](https://github.com/Abdul-Rahman04/weather/assets/148424590/be5f1d60-7e7a-474a-8bda-1bd93df698c8)
-![w1](https://github.com/Abdul-Rahman04/weather/assets/148424590/970d728b-abfa-4921-a842-548475552783)
+![w2](https://github.com/Abdul-Rahman04/weather/assets/148424590/7abf1707-f36b-4294-92cb-df7f201a6021)
+![w1](https://github.com/Abdul-Rahman04/weather/assets/148424590/16f53115-5e9b-49e2-9f35-7dbf1730eef1)
